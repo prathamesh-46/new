@@ -33,7 +33,7 @@ class OPML {
 	}
 
 	function load() {
-		echo "<a href=\"$path_to_opml/". basename($this->file) . "\"> company1 Download  File</a>";
+		echo "<a href=\"$path_to_opml/". basename($this->file) . "\"> company1 issueb 2 Download  File</a>";
 	}
 }
 ?>
